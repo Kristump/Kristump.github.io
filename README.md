@@ -9,7 +9,8 @@
 
 
 ### Project 2
+![christion_jackson_python-primitive-datatypes](https://github.com/user-attachments/assets/e38eaf48-4a6b-492e-a7ec-e45407469afa)
 
-
+- This exercise reinforced my ability to differentiate and identify the different data types associated with Python
 
 
