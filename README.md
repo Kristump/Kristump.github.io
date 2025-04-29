@@ -4,8 +4,7 @@
 ## Projects
 
 ### Project 1 
-
-- Description
+- Description My Beginnings in Python
 - Links
 
 
