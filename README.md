@@ -39,14 +39,6 @@ The point of this exercise was to be able to convert any sort of "data" to its w
 ### Multiple If Statements In Succession
 ![Christion_Jackson-Multiple-IF-statements-in-succession](https://github.com/user-attachments/assets/174549d4-0c79-4509-bc2b-072a04d4b9cf)
 
-### Logical Operators
-![Using Logical Operators](https://github.com/user-attachments/assets/b1710e3f-7717-42ce-8b15-b27c3a263e37)
-![Using Logical Operator2](https://github.com/user-attachments/assets/7dd271fc-8a94-4a78-b439-f5faaae1b792)
-![Using Logical Operator3](https://github.com/user-attachments/assets/69aafaed-9447-49a0-b0f6-9c6aa579735e)
-![Using Logical Operator4](https://github.com/user-attachments/assets/de72e1e9-7847-4476-b618-b55a70fffca6)
-![Using Logical Operator5](https://github.com/user-attachments/assets/9c59a030-dca1-4a3d-ac56-3953ff974e8c)
-![Using Logical Operator6](https://github.com/user-attachments/assets/d5a25dc5-7663-4d44-be5a-73303fe2c0d9)
-
 ### Understanding Lists In Python
 ![Lists in python](https://github.com/user-attachments/assets/c8dda130-b9de-4aa9-a818-c2c119a0e618)
 ![Lists in python 2](https://github.com/user-attachments/assets/0ddd5076-fab9-42ac-9061-f32e0dc1551b)
@@ -90,7 +82,25 @@ Defining and Calling Python Functions
 ![Reeborg Hurdle 3](https://github.com/user-attachments/assets/4079485c-7c9f-488c-b4c4-2ff94aa03585)
 
 ### Hurdle Challenge 4
-![Reeborg Hurdle 4](https://github.com/user-attachments/assets/e3a4ded6-dd5c-43ee-b287-7de9acdc8013)
+![Reeborg Hurdle 4](https://github.com/user-attachments/assets/e3a4ded6-dd5c-43ee-b287-7de9acdc8013) 
+
+### Reeborg World Maze
+![Reeborg Hurdle 5](https://github.com/user-attachments/assets/bc8c38fa-5df0-46c7-9b49-a9dfff9ae06d)
+
+### Hangman Game 
+![Hangman gamee](https://github.com/user-attachments/assets/92cdbe92-ecf7-4494-b5d5-b4941c9d5933)
+
+### Functions and Inputs
+![Functions and Inputs](https://github.com/user-attachments/assets/911d3f5f-5492-43b4-b17d-855980727dd7)
+![Functions and inputs 2](https://github.com/user-attachments/assets/7049f2c9-99f8-456d-b715-14c787ca52a6)
+
+### Life in Weeks
+![Life in Weeks](https://github.com/user-attachments/assets/f84953d3-34a5-4499-ae86-9ccd63dab2ac)
+
+# POSTGRESQL
+### Project 1
+
+
 
 
 
