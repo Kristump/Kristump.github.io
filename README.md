@@ -13,5 +13,6 @@
 - This exercise reinforced my ability to differentiate and identify the different data types associated with Python
 
 ### Type Error, Type Checking, And Type Conversion
+![Type errorr](https://github.com/user-attachments/assets/71a86a3c-f22f-4a0f-9588-4865af674f3d)
 
 
