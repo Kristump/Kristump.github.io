@@ -99,6 +99,14 @@ Defining and Calling Python Functions
 
 # POSTGRESQL
 ### Project 1
+### Creating and Modifying Tables
+![Screenshot 2025-01-23 095106](https://github.com/user-attachments/assets/49177fe3-839c-496f-b26a-651fdbad06a3)
+
+### Creating the Directors Table
+![Chrristion-Jackson-Creating-the-directors-table](https://github.com/user-attachments/assets/af8c77df-b068-43c6-ba19-706cda0d7c5d)
+
+### 
+
 
 
 
