@@ -14,5 +14,6 @@
 
 ### Type Error, Type Checking, And Type Conversion
 ![Type errorr](https://github.com/user-attachments/assets/71a86a3c-f22f-4a0f-9588-4865af674f3d)
+![type errorr 2](https://github.com/user-attachments/assets/9e50dc6d-1b30-49fd-a4f6-0ebd439d437c)
 
 
