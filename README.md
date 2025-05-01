@@ -80,6 +80,20 @@ Defining and Calling Python Functions
 ![Defining Functions](https://github.com/user-attachments/assets/4115e14e-d7d1-4a43-901a-43fd56af83b5)
 ![Defining Functions2](https://github.com/user-attachments/assets/604e8868-20b4-4d7c-a7c7-a8bbb61fec6d)
 
+### Indentation in Python
+![Indentation in python](https://github.com/user-attachments/assets/1aca788b-04e2-4a3c-b32a-331613772185)
+
+### While Loops
+![Reeborg HURDLE 2](https://github.com/user-attachments/assets/68c9971a-6987-4092-9d8d-4c6cd368d16e)
+
+### Hurdle Challenge 3  (Reeborg)
+![Reeborg Hurdle 3](https://github.com/user-attachments/assets/4079485c-7c9f-488c-b4c4-2ff94aa03585)
+
+### Hurdle Challenge 4
+![Reeborg Hurdle 4](https://github.com/user-attachments/assets/e3a4ded6-dd5c-43ee-b287-7de9acdc8013)
+
+
+
 
 
 
