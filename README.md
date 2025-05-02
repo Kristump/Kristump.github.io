@@ -267,6 +267,8 @@ Defining and Calling Python Functions
 ### PostgreSQL Data Types - Boolean
 ![PostgreSQL Boolean](https://github.com/user-attachments/assets/6b9ce2c4-1867-4ee1-8277-214696f2eb3a)
 
+###
+
 
 
 
