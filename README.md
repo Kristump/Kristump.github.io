@@ -264,10 +264,6 @@ Defining and Calling Python Functions
 ![Concantenation and NULL 5](https://github.com/user-attachments/assets/b5853531-ad24-4e6c-96af-6a6973cfacf1)
 ![Concantenation and NULL 6](https://github.com/user-attachments/assets/946c3690-9bc6-4e10-91b7-ab321b273ce0)
 
-### PostgreSQL Data Types - Boolean
-![PostgreSQL Boolean](https://github.com/user-attachments/assets/6b9ce2c4-1867-4ee1-8277-214696f2eb3a)
-
-### 
 
 
 
